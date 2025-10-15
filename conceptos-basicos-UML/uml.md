@@ -21,7 +21,7 @@ UML es una notación que surgio de OMT
 
 
 
-![alt text](image.png)
+![alt text](/images/image.png)
 
 
 ![alt text](/images/uml-concept.png)
