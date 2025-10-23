@@ -24,7 +24,8 @@ UML es una notación que surgio de OMT
 ![alt text](/images/uml-concept.png)
 
 
-
+# Diagramas de comportamiento
+## Diagramas de casos de Uso
 # Tipos de Actores en un diagrama de casos de uso UML 
 
 *
@@ -60,3 +61,16 @@ un actor Empleado podria generalizar a los actores Cajero y Gerente, que tienen 
 ## Relacion << Include >> 
 
 ![alt text](/images/relacion-include.png)
+
+
+### mas informacion soobre diagrama de casos de uso 
+
+https://www.google.com/search?q=tipos+de+autores+en+el+diagrama+de+casos+de+uso+UML&sca_esv=d9f24a9a5aa894d8&sxsrf=AE3TifN4ye3cGRjHDzCdNXVvFg1UzfjuaQ%3A1761157182943&ei=PiD5aPSqObXu1sQP34L4iA4&ved=2ahUKEwib76f9tbiQAxXvnpUCHdy3HDcQ0NsOegQIRRAA&uact=5&sclient=gws-wiz-serp&udm=50&aep=10&ntc=1&mstk=AUtExfBwl4eom_3UWFa_q_PvVVJ1c0r821-x9eZEkTGcC-ezCGjE5-IZecOSYH-8iJm5vdoAjtLFjMXxCRc1Q5-OiWJ5BvkXG1-QgEl-u51sSWrpa_8yG6-Hxto_VcAwTMXflocbmzbaAw9NHYD0sM_HmP3QDafIpCCaPdyDyOJsDU3RLL9EFUF4iPtcbVwMghOetk7RC09vT5cySTNGEiZBys7wB_9SWexhznOfsHHXh2IQHPcqstLFEBLhISGdl_Qo0qkkbwoCDDEfBvcDs5tJumV1a1-mMxcFUFzXjDuOSUjduv-nPAVaKsa7GoZ7DPNP3APO6usDNK5LsA&csuir=1&mtid=myD5aMSiKevZ1sQPj7fl4AY
+
+
+https://creately.com/blog/software-teams/learn-the-basics-of-use-case-diagrams-part-1/
+
+
+https://www.uml-diagrams.org/use-case-diagrams.html
+
+https://lsi2.ugr.es/~mvega/docis/casos%20de%20uso.pdf
