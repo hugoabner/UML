@@ -47,7 +47,17 @@ Puntos importantes a considerar sobre los actores:
 1. Pueden ser personas, sistemas, o dispositivos, puede ser un usuario humano (un cajero, un administrador), un sistema externo (un servicio de pago) o un harware (un lector de tarjetas) 
 2. Actores de tipo tiempo, aunque no son actores en el sentido tradicional, los eventos temporales tambien pueden representarse como actores en un diagrama de casos de uso si son los que inician una acción, ejemplo: Un temporizador que activa un proceso automatico en el sistema
 3. Generalización de actores, es importante mostrar la generalización de actores para mostrar una relacion de herencia entre actores, por ejemplo 
-un actor Empleado podria generalizar alos Cajero y Gerente, que tienen roles mas especificos.
+un actor Empleado podria generalizar a los actores Cajero y Gerente, que tienen roles mas especificos.
 4. Rol vs individuo. Un actor no representa a un individuo especifico (por ejemplo "Juan Perez"), sino un rol que puede ser desempeñado por diferentes individuos o entidades ("Cliente") 
 
 *
+
+
+# Relaciones en casos de uso
+
+## Relacion <<Extend>> 
+
+![alt text](/images/relacion-extend.png)
+
+## Relacion <<Include>> 
+
