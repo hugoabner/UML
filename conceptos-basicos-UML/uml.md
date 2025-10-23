@@ -55,9 +55,9 @@ un actor Empleado podria generalizar a los actores Cajero y Gerente, que tienen 
 
 # Relaciones en casos de uso
 
-## Relacion <<Extend>> 
+## Relacion << Extend >> 
 
 ![alt text](/images/relacion-extend.png)
 
-## Relacion <<Include>> 
+## Relacion << Include >> 
 
