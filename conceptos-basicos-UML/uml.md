@@ -15,16 +15,14 @@ UML es una notación que surgio de OMT
 2. Booch [Grady Booch 1994] El metodo Booch fue excelente en diseño e implementación, Grady Booch habia trabajado extensamente con el lenguaje Ada
 *
 
-
-
-
-
-
+## Tipos de Diagramas UML
+![alt text](/images/tipos-diagramas-UML.png)
 
 ![alt text](/images/image.png)
 
 
 ![alt text](/images/uml-concept.png)
+
 
 
 # Tipos de Actores en un diagrama de casos de uso UML 
