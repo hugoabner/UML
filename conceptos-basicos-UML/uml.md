@@ -58,6 +58,5 @@ un actor Empleado podria generalizar a los actores Cajero y Gerente, que tienen 
 ## Relacion << Extend >> 
 
 ![alt text](/images/relacion-extend.png)
-
 ## Relacion << Include >> 
 
